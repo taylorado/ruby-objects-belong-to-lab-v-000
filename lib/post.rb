@@ -6,6 +6,6 @@ class Post
     @title = title
     @author = Post.author
   end
-  
+
 
 end
